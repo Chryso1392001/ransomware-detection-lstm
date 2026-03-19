@@ -80,11 +80,7 @@ Traditional deep learning needs 50,000+ samples. Our approach achieves 95.15% ac
 
 ## 👥 **Team**
 
-**Group 13 - Final Year Project 2025-2026**
-
-- **NAYISABYE Jean Chrysostome** (222002156) - Team Leader, Model Development
-- **IKUZWE Pascaline** (222003736) - Data Engineering & Preprocessing
-- **ICYITEGETSE Thersie** (222005658) - System Integration & Testing
+Jean Chrysostome NDAYISABYE 
 
 **Institution:** University of Rwanda - College of Science and Technology  
 **School:** School of ICT
@@ -99,7 +95,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 📞 **Contact**
 
-**Project Inquiry:** [your-email@example.com]  
+**Project Inquiry:** ndchrysostome7@gmail.com  
 **Institution:** University of Rwanda - CST
 
 ---
