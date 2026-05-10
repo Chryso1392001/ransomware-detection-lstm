@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow 2.13](https://img.shields.io/badge/TensorFlow-2.13-orange.svg)](https://www.tensorflow.org/)
 
-> **Master's Thesis Project** - Carnegie Mellon University Africa  
+> **FYP Project** - University of RWANDA-CST  
 > Detecting ransomware using LSTM neural networks on encrypted traffic metadata
 
 ---
