@@ -170,19 +170,15 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 👨‍🎓 Author
 
-**[Your Name]**  
-Master's Student, Information Technology  
-Carnegie Mellon University Africa
+**Jean Chrysostome NDAYISABYE**  
+B.sc Student, Information Systems  
+University of RWANDA-CST
 
-- 📧 Email: [your.email@andrew.cmu.edu]
-- 💼 LinkedIn: [Your LinkedIn]
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Supervisor:** [Supervisor Name]
-- **Carnegie Mellon University Africa**
 - **Stratosphere IPS Project** - Public ransomware datasets
 - **Wazuh Community** - Open-source SIEM platform
 
