@@ -1,6 +1,56 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
 venv/
+tf_env_clean/
+tf210_env/
+*.egg-info/
+
+# Large model files (DON'T PUSH THESE)
+*.h5
+*.pkl
+*.npz
+*.keras
+model_dump/
+
+# Datasets (DON'T PUSH THESE)
+data/
+datasets/
+*.csv
 *.pcap
-data/raw/
+*.pcapng
+*.log
+
+# Zeek logs
+zeek_logs_*/
+
+# Archives
+*.tgz
+*.tar.gz
+*.zip
+
+# Kafka (not used)
+kafka*/
+
+# Logs
+*.log
+logs/
+
+# OS files
 .DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.bak
+test_capture/
+scripts_archive*/
